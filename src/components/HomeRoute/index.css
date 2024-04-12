@@ -1,0 +1,13 @@
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home-link {
+  text-decoration: none;
+}
+@media screen and (max-width: 575px) {
+  .home-link {
+    width: 100%;
+  }
+}
